@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block head%}
+
+{% endblock %}
+
+{% block body %}
+<html>
+<style>
+body
+{
+font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+    background: url(../static/image/1.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	}
+.w3layouts-main
+{
+width: 80%;
+margin: 5em auto;
+background: rgba(255, 255, 255, 0);
+    padding: 42px 35px;
+
+}	
+	
+</style>
+<body>
+<div>
+    <center>
+        <p style="margin-bottom:2cm;"></p>
+        <div class="w3layouts-main">
+        <h1> Depression Detection </h1>
+        <h3></h3>
+        <p style="margin-bottom:2cm;"></p>
+        <form action="/predict" method="POST">
+            <div>
+                <p><b>Your Name?</b></p> <input type="text" name="name" id="name">
+                <p><b>Context (tweet)?</b></p>
+                <input type="text" name="question" id="question">
+            </div>
+        <p style="margin-bottom:2cm;"></p>
+
+         <center><input type="submit" value="Predict"></center>
+        </form>
+        <p style="margin-bottom:1cm;"></p>
+        <h2></h2>
+    </center>
+</div>
+</body>
+{% endblock %}

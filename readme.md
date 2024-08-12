@@ -3,10 +3,10 @@
 
 This project is a machine learning application designed to detect signs of depression in social media posts using the BERT algorithm. The application includes features such as early detection of depression symptoms, notifications to a guardian, suggestions for consulting doctors, and links to motivational YouTube videos.
 
-[home page](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Home%20Page.png)
-[main Page](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Main%20Page.png)
-[result1](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Result1.png)
-[result2](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Result2.png)
+![home page](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Home%20Page.png)
+![main Page](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Main%20Page.png)
+![result1](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Result1.png)
+![result2](https://github.com/YogeshDPalve/Depression-Detection-By-Analysing-Social-Media-Post-of-User/blob/main/Result2.png)
 
 
 ## Table of Contents
